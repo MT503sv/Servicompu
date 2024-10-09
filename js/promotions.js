@@ -6,13 +6,13 @@ document.addEventListener("DOMContentLoaded", function() {
     const promotions = [
         {
             title: "Descuento en Microsoft Office 365",
-            description: "Obtén un 20% de descuento en la suscripción anual de Microsoft Office 365. Oferta válida hasta el 30 de septiembre.",
-            expiryDate: new Date('2024-09-30')
+            description: "Obtén un 20% de descuento en la suscripción anual de Microsoft Office 365. Oferta válida hasta el 30 de octubre.",
+            expiryDate: new Date('2024-10-30')
         },
         {
             title: "Ofertas en Programas de Gestión de Camiones",
             description: "Compra nuestro software de gestión de camiones con un 15% de descuento en compras múltiples. Oferta válida hasta el 15 de octubre.",
-            expiryDate: new Date('2024-10-15')
+            expiryDate: new Date('2024-10-20')
         }
     ];
 

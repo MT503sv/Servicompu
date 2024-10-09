@@ -4,6 +4,26 @@
     padding: 0;
 }
 
+.boton-inicio {
+    position: fixed; 
+    left: 0;         
+    top: 20px;      
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    border-radius: 5px; 
+}
+
+.boton-inicio a {
+    color: white;
+    text-decoration: none; 
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.boton-inicio:hover {
+    background-color: #45a049;
+}
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
