@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function() {
         },
         {
             title: "Ofertas en Programas de Gestión de Camiones",
-            description: "Compra nuestro software de gestión de camiones con un 15% de descuento en compras múltiples. Oferta válida hasta el 15 de octubre.",
+            description: "Compra nuestro software de gestión de camiones con un 15% de descuento en compras múltiples. Oferta válida hasta el 20 de octubre.",
             expiryDate: new Date('2024-10-20')
         }
     ];
