@@ -1,0 +1,1 @@
+Placeholder for product1.jpg - add your image at public/images/product1.jpg
