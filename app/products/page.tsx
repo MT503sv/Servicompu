@@ -2,8 +2,8 @@
 import { motion } from 'framer-motion';
 
 const productos = [
-  { nombre: 'Laptop Pro', img: '/images/product1.jpg' },
-  { nombre: 'Teclado Mecánico', img: '/images/product2.jpg' },
+  { nombre: 'Laptop Pro', img: '/images/Laptop.webp' },
+  { nombre: 'Teclado Mecánico', img: '/images/Teclado.webp' },
   { nombre: 'Mouse Inalámbrico', img: '/images/product3.jpg' },
 ];
 

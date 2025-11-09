@@ -3,7 +3,7 @@ import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 
 export const metadata = {
-  title: 'sservicompu',
+  title: 'Servicompu',
   description: 'Venta de dispositivos electrónicos y software'
 }
 
